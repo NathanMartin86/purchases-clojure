@@ -27,5 +27,3 @@
       (println purchases))
     (spit "filtered_purchases.edn"
           (pr-str purchases))))
-
-
