@@ -33,7 +33,7 @@
                  (:credit_card line)
                  (:cvv line)
                  (:category line)
-                 :p
+                 [:br]
                  )]))
     purchases))
 
